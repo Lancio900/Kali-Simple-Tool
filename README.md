@@ -26,7 +26,7 @@ To install and use the Kali Simple Tool:
 
 1. Clone the repository or download the files to your local machine:
     ```bash
-    git clone https://github.com/yourusername/Kali-Simple-Tool.git
+    git clone https://github.com/Lancio900/Kali-Simple-Tool.git
     ```
 
 2. Navigate to the folder containing the script:
